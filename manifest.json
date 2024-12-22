@@ -1,0 +1,17 @@
+{
+    "id": "263dc203-12f2-4f0f-a6d3-b1aae17a3102",
+    "version": "1.0.0",
+    "platform": "all",
+    "arch": "all",
+    "name": "Booth Auto Thumbnail",
+    "logo": "/logo.png",
+    "keywords": [],
+    "devTools": false,
+    "main": {
+        "url": "index.html",
+        "serviceMode": true,
+        "frame": false,
+        "width": 128,
+        "height": 96
+    }
+}
